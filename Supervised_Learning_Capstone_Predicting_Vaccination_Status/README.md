@@ -17,7 +17,8 @@ This project uses predictive analytics algorithms to identify children aged 19 t
 - Seaborn
 - Matplotlib
 - Scipy
-- Slearn
+- Sklearn
+- Imbalanced-learn
 
 I used additional resampling techniques to address class imbalance in order to improve performance metrics.
 - SMOTE-NC
